@@ -1,5 +1,6 @@
 # Amazon-Clone-Frontend
 Amazon clone involves building a basic e-commerce website layout using HTML and CSS. The frontend will include essential features like a navigation bar, product listings, and a footer.
+
 Features:
   Navigation Bar:
        Includes a logo, search bar, delivery location, user account options, orders, and cart.
